@@ -1,0 +1,60 @@
+#add_comment
+{
+	
+	
+}
+
+#retourindex
+{
+	text-align: right;
+	width : 80%;
+	margin : auto;
+}
+
+#corpsCommentaires
+{
+	width : 90%;
+	margin : auto;
+}
+#titrePageComment
+{
+	margin : auto;
+}
+
+#autCOM
+{
+	background: #39709f;
+	width : 40%;
+	border-radius: 8px 8px 1px 1px;
+	color : black;
+	
+}
+
+#corpsComment
+{
+	background: #254b6b;
+	width : 40%;
+	border-radius: 1px 1px 8px 8px;
+	color : white;	
+}
+
+#send
+{
+	
+}
+
+#label_auteurNC {text-align:right;}
+
+#label_NC
+{
+	text-align:right;
+	vertical-align:top;
+}
+#auteur_NC
+{
+	border-radius: 2px 15px 1px 1px;
+}
+#msg_NC
+{
+	border-radius: 1px 14px 14px 14px;
+}

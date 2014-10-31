@@ -1,0 +1,14 @@
+#msgBillet
+{
+	background-color : #47749b;
+	border-radius: 1px 1px 16px 12px ;
+}
+
+#enteteBillet
+{
+	background-color : black;
+	color : white;
+	width : 80%;
+	border-radius: 16px 16px 1px 1px ;
+	text-align : center;
+}

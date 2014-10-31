@@ -1,0 +1,222 @@
+#corpsadmin
+{
+	background-color : #496985;
+	color :#9FD0FC;
+}
+
+
+#headerAdmin
+{
+background-color :#162838;
+height:100px;
+
+border-radius: 1px 28px 28px 1px ;
+}
+
+#titreAdmin
+{
+	color : white;
+	text-align : center;
+}
+
+
+nav li
+{
+margin-left:20px;
+margin-top:200px;
+display : inline;
+padding-top :102px;
+
+}
+nav li a
+{
+	color : white;
+background: #234d70;
+opacity: 0.9;
+border-radius: 8px 8px 6px ;
+font : bold 12pt arial;
+text-decoration : none;
+padding :12px;
+
+-webkit-box-shadow:6px 6px 6px black;
+-moz-box-shadow:6px 6px 6px black;
+-ms-box-shadow:6px 6px 6px black;
+box-shadow:6px 6px 6px black;
+
+transition: all .5s;
+}
+
+nav li a:hover
+{
+-webkit-box-shadow:8px 6px 6px black;
+-moz-box-shadow:8px 6px 6px black;
+-ms-box-shadow:8px 6px 6px black;
+box-shadow:8px 6px 6px black;
+background: #9FD0FC;
+opacity: 1;
+color: black;
+}
+
+
+#msg_GestionCOM,#resultFin,#resultInsert
+{
+	text-align: center;
+	color : #FFA500;
+	font : bold 20pt arial;
+	
+}
+.confirmDelete
+{
+	background-color:black;
+	color:white;
+	border :1px;
+	
+}
+#validation
+{
+	text-align:center;
+	
+}
+
+#titreModif
+{
+	text-align : center;
+}
+
+
+
+#bt_applyModif
+{
+	position : right;
+}
+#colselect
+{
+	vertical-align : top;
+}
+#selectionBillet
+{
+	vertical-align : top;
+}
+#newTitre
+{
+	 width:400px;
+}
+#titre_suppbillet
+{ }
+#supprimer
+{ }
+
+#del_billet
+{ }
+#titre_ajoutbillet
+{
+
+	}
+
+
+#del_Billet,#supprimerCom
+{
+	background-color:red;
+	color:white;
+	border-radius: 4px 4px 4px 4px;
+	text-align: right;
+	
+	
+}
+
+#tb_modifCom
+{
+	width :60%;
+	margin: auto;
+	
+}
+#tabGestComm
+{
+	margin: auto;
+	width : 80%;
+}
+
+#col_delBillet
+{
+	text-align :center;
+	
+}
+#col_labContent
+{
+	vertical-align:top;
+	
+}
+
+#labelTitreA
+{ text-align : right; color :#9FD0FC; }
+#labelContenuA
+{
+	vertical-align : top;
+	text-align : right;
+}
+
+#retourBlog
+{  text-align : right; }
+
+#insert_TitreBillet
+{
+	border-radius: 8px 8px 1px 1px;
+	
+}
+#insert_ContenuBillet
+{
+	
+	border-radius: 1px 8px 14px 1px;
+}
+
+#selectionBillets
+{
+	border-radius: 8px 1px 1px 18px;
+	
+}
+#tab_modifBillet
+{
+	width:100%;
+}
+#identifiant
+{
+	border-radius: 1px 14px 1px 1px;
+}
+#newTitre,#input_modifautCom
+{
+	border-radius: 1px 18px 1px 1px;
+}
+#newcontenu,#input_modifcontCom
+{
+	border-radius: 1px 14px 14px 1px;
+}
+#afficheResult
+{
+	background-color : red;
+	color:white;
+}
+#col_modifautCom,#col_IDmodifBillet,#col_titremodifBillet
+{
+	text-align:right;		
+}
+#col_modifcontCom,#col_labContent
+{
+	text-align:right;
+	vertical-align :top;
+}
+#col_btmodifCOM
+{
+	width:;
+	text-align:left;
+}
+#truc
+{
+	
+	color :#496985;
+}
+#applyCom,#bt_applyModif
+{
+	
+	border-radius: 4px 4px 4px 4px;
+	
+}

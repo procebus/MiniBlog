@@ -1,0 +1,74 @@
+@CHARSET "utf-8";
+@import "jquery-ui.css";
+@import "adminstyle.css"; 
+@import "comment.css";
+@import "billet.css";
+
+#corpsdublog
+{
+	background-color : #8cadc8;
+}
+
+#corps
+{
+	margin : auto;
+	width : 80%;
+}
+#bas
+{
+	margin : auto;
+	width : 80%;
+	text-align : center;
+}
+
+article
+{
+	border-radius: 8px 8px 6px ;
+}
+table
+{
+	width:90%;
+	margin: auto;
+}
+
+#titreblog
+{
+	font-size : 35pt;
+	text-align : center;
+}
+
+#retourLast
+{
+	text-decoration : none;
+}
+
+#divComment
+{
+	margin : auto;
+}
+#enteteComment
+{
+	text-decoration : underline;
+}
+
+#articleComment
+{
+	width : 80%;
+	margin : auto;
+}
+
+a
+{
+	text-decoration : none;
+}
+
+a:visited
+{
+	text-decoration : none;
+}
+
+#dlPDF
+{
+	text-align :center;
+	
+}
